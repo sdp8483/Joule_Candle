@@ -17,5 +17,6 @@ _autosave-*
 *.ses
 
 # Exported BOM files
+*.xlsx
 *.xml
 *.csv
