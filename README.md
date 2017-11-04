@@ -48,4 +48,27 @@ Below is a list of 3D printed tooling that is useful during assembly. This tooli
 \*The modified vise jaws fit the [Yet ANOTHER Machine Vise](https://www.thingiverse.com/thing:2064269) by TheGoofy
 
 ## Assembly Instructions
-1.
+1. Using the Xacto knife or other fine tipped instrument apply a small amount of solder paste to the pads for the NPN transistor and the 6.8K resistor. Less solder paste is better. **Buy a stencil next time!**
+2. With a pair of tweezers place the transistor and resistor on the pads.
+3. Turn on the re-flow solder station hot air gun with moderate to high air flow.
+	A. For lead free solder a hot air temperature of about 410C is good for all SMD parts.
+	B. For lead solder a hot air temperature of about 380C is good for all SMD parts.
+4. Apply heat evenly around the transistor and resistor until the solder is shiny and flows. Pin 2 of the NPN transistor seems to be the last pad to flow.
+5. Allow the PCB to cool before applying solder paste to the pads for the SRF4532 common mode choke. Again less is better and **buy a stencil next time!**
+6. Using a pair of tweezers place the common mode choke on the pads.
+7. Apply heat evenly around the common mode choke until the solder paste is shiny and flows.
+8. Turn on the soldering iron.
+	A. For lead free solder a soldering iron temperature of about 415C is good for all through hole parts.
+	B. For lead solder a soldering iron temperature of about 365C is good for all through hole parts.
+9. Using the switch soldering jig solder the slide switch in place. Start with the middle pin and work out. Additional flux is not necessary if you are using rosin core solder.
+10. Using the LED lead cutting guide cut the leads of an inserted 3mm LED flush to the guide using flush cut wire cutters.
+11. Using the LED soldering jig place the PCB into the jig then place the LED into the jig near the solder pads for the LED. Notice that the orientation indicator of the LED requires that the LED only fits in one orientation on the jig. Solder the LED to the PCB.
+12. Place the battery clips into the PCB, the clips will stay in place.
+13. Place the PCB into the modified vise jaws. Apply a few drops of rosin flux to the battery terminal solder pins and pads.
+14. Solder the battery clips into place. The battery clips will act like heat sinks and require the soldering iron tip to be applied a few seconds longer then normal before applying solder.
+15. Allow the PCB to cool completely.
+16. Place the assembled PCB into a small amount of the flux cleaner and let is soak for a minute or two.
+17. Remove from the flux cleaner and use the anti static brush to remove any left over flux.
+18. Place the assembled PCB into a fresh amount of the flux cleaner for only a few seconds.
+19. After removing from the flux cleaner use some paper wipes (toilet paper) to soak up the flux cleaner from the PCB to remove any left over residue. Repeat this step if necessary to remove stubborn residue.
+20. Allow the flux cleaner to completely evaporate before testing with a AA battery.
