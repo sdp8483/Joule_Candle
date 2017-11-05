@@ -72,3 +72,8 @@ Below is a list of 3D printed tooling that is useful during assembly. This tooli
 18. Place the assembled PCB into a fresh amount of the flux cleaner for only a few seconds.
 19. After removing from the flux cleaner use some paper wipes (toilet paper) to soak up the flux cleaner from the PCB to remove any left over residue. Repeat this step if necessary to remove stubborn residue.
 20. Allow the flux cleaner to completely evaporate before testing with a AA battery.
+
+## Other
+If you do not want to bother with ordering components and assembly I do sell these on Tindie.
+
+<a href="https://www.tindie.com/stores/sdp8483/?ref=offsite_badges&utm_source=sellers_sdp8483&utm_medium=badges&utm_campaign=badge_small"><img src="https://d2ss6ovg47m0r5.cloudfront.net/badges/tindie-smalls.png" alt="I sell on Tindie"width="200" height="55"></a>
