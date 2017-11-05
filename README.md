@@ -1,7 +1,7 @@
 # Joule Thief Candle
 [Original Blog Post](https://samueldperry.com/2016/12/18/single-led-candle-joule-thief/)
 
-## Project Links
+## Repository Links
 [KiCAD Project File](Joule_Candle.pro)
 [Component Datasheets](datasheets/)
 [Schematic PDF](pdf/Joule_Candle.pdf)
