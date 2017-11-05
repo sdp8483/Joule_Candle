@@ -1,6 +1,13 @@
 # Joule Thief Candle
 [Original Blog Post](https://samueldperry.com/2016/12/18/single-led-candle-joule-thief/)
 
+## Project Links
+[KiCAD Project File](Joule_Candle.pro)
+[Component Datasheets](datasheets/)
+[Schematic PDF](pdf/Joule_Candle.pdf)
+[PCB 3D Renders](images/)
+[PCB Gerber Output](gerber/)
+
 ## BOM
 Below is the BOM for assembling a Joule Thief Candle. Similar 0603 resistors and 3mm LEDs can be substituted for the parts listed below if not available.
 
