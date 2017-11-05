@@ -37,7 +37,7 @@ encoding utf-8
 Sheet 1 1
 Title "Joule Thief Candle"
 Date "2016-11-21"
-Rev ""
+Rev "V1.1"
 Comp "SD Productions"
 Comment1 ""
 Comment2 ""
