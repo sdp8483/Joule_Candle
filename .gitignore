@@ -20,3 +20,6 @@ _autosave-*
 *.xlsx
 *.xml
 *.csv
+
+# Zipped Gerber Output
+gerber/*.zip
