@@ -22,4 +22,4 @@ _autosave-*
 *.csv
 
 # Zipped Gerber Output
-gerber/*.zip
+*gerber/*.zip
